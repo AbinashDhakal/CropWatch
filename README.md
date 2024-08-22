@@ -4,7 +4,7 @@ Welcome to the CropWatch repository! CropWatch is a satellite-based crop monitor
 
 ## Introduction
 
-CropWatch is designed to empower farmers, agronomists, and researchers by providing actionable insights into crop conditions using satellite imagery. By accurately classifying different biomes and estimating vegetation indices, CropWatch helps monitor crop health, detect potential stress factors, and make informed decisions in agricultural management.
+CropWatch is designed to empower farmers, agronomists, and researchers by providing actionable insights into crop conditions using satellite imagery. By accurately classifying different biomes and estimating vegetation indices, CropWatch helps monitor crop health, detect potential stress factors, and make informed decisions in agricultural management. 
 
 ## Features
 
